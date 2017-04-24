@@ -43,3 +43,7 @@ e.g. 🇦🇺
 The unicode codepoints for the given flag
 
 e.g. U+1F1E6 U+1F1FA
+
+#Attribution
+
+All data was scraped from https://apps.timwhitlock.info/emoji/tables/iso3166
